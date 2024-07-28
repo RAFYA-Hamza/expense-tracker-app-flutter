@@ -11,7 +11,7 @@ Welcome to the Expense Tracker App! This is my second app using Flutter, and it'
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; justify-content: space-between;">
     <img src="images/report-page.png" alt="Report page" width="250">
     <img src="images/new-expense.png" alt="New expense" width="250">
 </div>
