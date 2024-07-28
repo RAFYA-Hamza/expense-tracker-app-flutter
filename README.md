@@ -11,7 +11,7 @@ Welcome to the Expense Tracker App! This is my second app using Flutter, and it'
 
 ## Screenshots
 
-![Expense List](image/report-page.png)
+![Expense List](images/report-page.png)
 ![Reports](path/to/reports.png)
 
 ## Installation
