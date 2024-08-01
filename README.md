@@ -31,7 +31,7 @@ Make sure you have Flutter installed on your machine. You can follow the officia
     ```
 2. Navigate to the project directory:
     ```sh
-    cd quiz-app-flutter
+    cd expens-tracker-app-flutter
     ```
 3. Get the required dependencies:
     ```sh
